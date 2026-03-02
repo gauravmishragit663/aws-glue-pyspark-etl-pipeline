@@ -1,0 +1,13 @@
+aws-glue-pyspark-etl-pipeline/
+│
+├── glue_job/
+│   └── etl_job.py
+│
+├── sample_data/
+│   └── transactions.csv
+│
+├── architecture/
+│   └── architecture.png   (optional)
+│
+├── README.md
+└── requirements.txt
