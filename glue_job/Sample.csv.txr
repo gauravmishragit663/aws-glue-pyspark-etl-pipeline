@@ -1,0 +1,5 @@
+transaction_id,customer_id,amount,status
+1,101,2500,success
+2,102,3400,failed
+3,103,1200,success
+4,104,5600,success
